@@ -1,0 +1,11 @@
+C:\repos\StringTutortialSolution\StringTutortialProject\bin\Debug\netcoreapp3.1\StringTutortialProject.exe
+C:\repos\StringTutortialSolution\StringTutortialProject\bin\Debug\netcoreapp3.1\StringTutortialProject.deps.json
+C:\repos\StringTutortialSolution\StringTutortialProject\bin\Debug\netcoreapp3.1\StringTutortialProject.runtimeconfig.json
+C:\repos\StringTutortialSolution\StringTutortialProject\bin\Debug\netcoreapp3.1\StringTutortialProject.runtimeconfig.dev.json
+C:\repos\StringTutortialSolution\StringTutortialProject\bin\Debug\netcoreapp3.1\StringTutortialProject.dll
+C:\repos\StringTutortialSolution\StringTutortialProject\bin\Debug\netcoreapp3.1\StringTutortialProject.pdb
+C:\repos\StringTutortialSolution\StringTutortialProject\obj\Debug\netcoreapp3.1\StringTutortialProject.csprojAssemblyReference.cache
+C:\repos\StringTutortialSolution\StringTutortialProject\obj\Debug\netcoreapp3.1\StringTutortialProject.AssemblyInfoInputs.cache
+C:\repos\StringTutortialSolution\StringTutortialProject\obj\Debug\netcoreapp3.1\StringTutortialProject.AssemblyInfo.cs
+C:\repos\StringTutortialSolution\StringTutortialProject\obj\Debug\netcoreapp3.1\StringTutortialProject.dll
+C:\repos\StringTutortialSolution\StringTutortialProject\obj\Debug\netcoreapp3.1\StringTutortialProject.pdb
